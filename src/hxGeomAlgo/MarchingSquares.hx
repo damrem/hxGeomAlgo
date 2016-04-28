@@ -9,7 +9,7 @@
  * @author azrafe7
  */
 
-package hxGeomAlgo;
+package src.hxgeomalgo;
 
 import hxPixels.Pixels;
 

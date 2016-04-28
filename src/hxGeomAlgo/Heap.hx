@@ -9,9 +9,9 @@
  * @author azrafe7
  */
 
-package hxGeomAlgo;
+package src.hxgeomalgo;
 
-import hxGeomAlgo.Debug;
+import src.hxgeomalgo.Debug;
 
 
 /** Heap elements must implement this interface. */

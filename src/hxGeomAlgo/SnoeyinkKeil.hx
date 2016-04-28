@@ -15,16 +15,16 @@
  * @author azrafe7
  */
 
-package hxGeomAlgo;
+package src.hxgeomalgo;
 
 
 import haxe.ds.ArraySort;
 import haxe.ds.IntMap.IntMap;
-import hxGeomAlgo.PolyTools;
-import hxGeomAlgo.SnoeyinkKeil.DecompPoly;
+import src.hxgeomalgo.PolyTools;
+import src.hxgeomalgo.SnoeyinkKeil.DecompPoly;
 
 
-using hxGeomAlgo.PolyTools;
+using src.hxgeomalgo.PolyTools;
 
 @:expose
 class SnoeyinkKeil

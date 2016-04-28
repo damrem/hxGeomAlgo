@@ -22,21 +22,21 @@ import haxe.Timer;
 
 import hxPixels.Pixels;
 
-import hxGeomAlgo.Version;
-import hxGeomAlgo.EarClipper;
-import hxGeomAlgo.HxPoint;
-import hxGeomAlgo.MarchingSquares;
-import hxGeomAlgo.IsoContours;
-import hxGeomAlgo.PolyTools;
-import hxGeomAlgo.RamerDouglasPeucker;
-import hxGeomAlgo.Bayazit;
-import hxGeomAlgo.Visibility;
-import hxGeomAlgo.PolyTools.Poly;
-import hxGeomAlgo.PairDeque;
-import hxGeomAlgo.SnoeyinkKeil;
-import hxGeomAlgo.CCLabeler;
-import hxGeomAlgo.VisvalingamWhyatt;
-import hxGeomAlgo.Tess2;
+import src.hxgeomalgo.Version;
+import src.hxgeomalgo.EarClipper;
+import src.hxgeomalgo.HxPoint;
+import src.hxgeomalgo.MarchingSquares;
+import src.hxgeomalgo.IsoContours;
+import src.hxgeomalgo.PolyTools;
+import src.hxgeomalgo.RamerDouglasPeucker;
+import src.hxgeomalgo.Bayazit;
+import src.hxgeomalgo.Visibility;
+import src.hxgeomalgo.PolyTools.Poly;
+import src.hxgeomalgo.PairDeque;
+import src.hxgeomalgo.SnoeyinkKeil;
+import src.hxgeomalgo.CCLabeler;
+import src.hxgeomalgo.VisvalingamWhyatt;
+import src.hxgeomalgo.Tess2;
 
 #if (sys)
 import sys.io.File;

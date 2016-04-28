@@ -9,10 +9,10 @@
  * @author azrafe7
  */
 
-package hxGeomAlgo;
+package src.hxgeomalgo;
 
 
-import hxGeomAlgo.PolyTools;
+import src.hxgeomalgo.PolyTools;
 
 @:expose
 class RamerDouglasPeucker

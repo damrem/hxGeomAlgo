@@ -10,7 +10,7 @@
  * @author azrafe7
  */
 
-package hxGeomAlgo;
+package src.hxgeomalgo;
 
 import haxe.ds.Vector;
 import haxe.ds.ObjectMap;

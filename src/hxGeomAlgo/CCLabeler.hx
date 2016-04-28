@@ -10,10 +10,10 @@
  * @author azrafe7
  */
 
-package hxGeomAlgo;
+package src.hxgeomalgo;
 
-import hxGeomAlgo.HxPoint;
-import hxGeomAlgo.PolyTools.Poly;
+import src.hxgeomalgo.HxPoint;
+import src.hxgeomalgo.PolyTools.Poly;
 import hxPixels.Pixels;
 
 

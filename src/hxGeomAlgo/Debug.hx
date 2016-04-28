@@ -1,4 +1,4 @@
-package hxGeomAlgo;
+package src.hxgeomalgo;
 
 import haxe.PosInfos;
 

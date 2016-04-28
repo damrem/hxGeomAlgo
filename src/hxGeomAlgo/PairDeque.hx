@@ -20,7 +20,7 @@
  * @author azrafe7
  */
 
-package hxGeomAlgo;
+package src.hxgeomalgo;
 
 
 class PairDeque {

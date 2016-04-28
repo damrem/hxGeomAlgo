@@ -46,10 +46,10 @@
  * @author azrafe7
  */
 
-package hxGeomAlgo;
+package src.hxgeomalgo;
 
-import hxGeomAlgo.PolyTools.Poly;
-import hxGeomAlgo.Debug;
+import src.hxgeomalgo.PolyTools.Poly;
+import src.hxgeomalgo.Debug;
 
 
 @:expose

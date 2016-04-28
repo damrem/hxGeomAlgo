@@ -1,4 +1,4 @@
-package hxGeomAlgo;
+package src.hxgeomalgo;
 
 /**
  * Minimal Point class (auto-converting to/from flash.geom.Point and {x:Float, y:Float}).

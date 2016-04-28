@@ -13,10 +13,10 @@
  * @author azrafe7
  */
 
-package hxGeomAlgo;
+package src.hxgeomalgo;
 
 
-import hxGeomAlgo.PolyTools;
+import src.hxgeomalgo.PolyTools;
 
 
 typedef Tri = Poly;	// assumes Array<HxPoint> of length 3

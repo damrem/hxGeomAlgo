@@ -10,10 +10,10 @@
  * @author azrafe7
  */
 
-package hxGeomAlgo;
+package src.hxgeomalgo;
 
-import hxGeomAlgo.Heap;
-import hxGeomAlgo.Debug;
+import src.hxgeomalgo.Heap;
+import src.hxgeomalgo.Debug;
 
 
 /** Specifies the method to use in the simplification process. */

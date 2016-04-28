@@ -13,16 +13,16 @@
  * @author azrafe7
  */
 
-package hxGeomAlgo;
+package src.hxgeomalgo;
 
 
-import hxGeomAlgo.Debug;
-import hxGeomAlgo.HomogCoord;
-import hxGeomAlgo.PolyTools;
-import hxGeomAlgo.Visibility.VertexType;
+import src.hxgeomalgo.Debug;
+import src.hxgeomalgo.HomogCoord;
+import src.hxgeomalgo.PolyTools;
+import src.hxgeomalgo.Visibility.VertexType;
 
 
-using hxGeomAlgo.PolyTools;
+using src.hxgeomalgo.PolyTools;
 
 
 /** polygon vertex types:    

@@ -9,9 +9,9 @@
  * @author azrafe7
  */
 
-package hxGeomAlgo;
+package src.hxgeomalgo;
 
-import hxGeomAlgo.HxPoint;
+import src.hxgeomalgo.HxPoint;
 
 
 typedef Poly = Array<HxPoint>;

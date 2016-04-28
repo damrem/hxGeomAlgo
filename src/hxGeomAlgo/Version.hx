@@ -1,4 +1,4 @@
-package hxGeomAlgo;
+package src.hxgeomalgo;
 
 /**
  * @author azrafe7
