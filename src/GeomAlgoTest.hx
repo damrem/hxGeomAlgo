@@ -20,7 +20,7 @@ import flash.display.PNGEncoderOptions;
 import haxe.Resource;
 import haxe.Timer;
 
-import hxPixels.Pixels;
+import src.hxpixels.Pixels;
 
 import src.hxgeomalgo.Version;
 import src.hxgeomalgo.EarClipper;
@@ -327,6 +327,7 @@ class GeomAlgoTest extends Sprite {
 		// TESS2 - UNION
 		setSlot(2, 3);
 		startTime = Timer.stamp();
+		trace(flatContours);
 		res = Tess2.union(flatContours, flatRing, resultType, polySize, 2);
 		polys = Tess2.convertResult(res.vertices, res.elements, resultType, polySize);
 		trace('Tess2Union    : ${Timer.stamp() - startTime}');

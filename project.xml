@@ -15,6 +15,7 @@
 	
 	<haxelib name="openfl" />
 	<haxelib name="hxPixels" />
+	
 
 	<assets path="assets" rename="assets" exclude="openfl.svg" include="*.png" />
 	<icon path="assets/openfl.svg" />

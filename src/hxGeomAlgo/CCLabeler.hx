@@ -14,7 +14,7 @@ package src.hxgeomalgo;
 
 import src.hxgeomalgo.HxPoint;
 import src.hxgeomalgo.PolyTools.Poly;
-import hxPixels.Pixels;
+import src.hxpixels.Pixels;
 
 
 @:expose

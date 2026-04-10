@@ -14,7 +14,7 @@ package src.hxgeomalgo;
 
 import haxe.ds.Vector;
 import haxe.ds.ObjectMap;
-import hxPixels.Pixels;
+import src.hxpixels.Pixels;
 
 
 /** function(pixels:Pixels, x:Int, y:Int):Float */

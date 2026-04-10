@@ -3657,7 +3657,7 @@ class Tesselator
 		this.elementCount = 0;
 
 		f = mesh.fHead.next;
-		while (f != mesh.fHead)
+		while (f != mesh.fHead)	
 		{
 			if (!f.inside) {
 				f = f.next;

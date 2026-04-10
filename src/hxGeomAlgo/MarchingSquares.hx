@@ -11,7 +11,7 @@
 
 package src.hxgeomalgo;
 
-import hxPixels.Pixels;
+import src.hxpixels.Pixels;
 
 
 enum StepDirection {
